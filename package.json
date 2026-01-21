@@ -2,7 +2,7 @@
   "name": "pollinate-theme",
   "displayName": "pollinate-theme",
   "description": "Pollinate Theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.108.1"
   },
