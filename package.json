@@ -9,7 +9,7 @@
   "publisher": "pollinate",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/pollinate-theme-ext"
+    "url": "https://github.com/Pollinate-Side-Projects/pollinate-theme.git"
   },
   "icon": "images/icon.png",
   "categories": ["Themes"],
