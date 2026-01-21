@@ -1,0 +1,21 @@
+{
+    "name": "My Cute Theme",
+    "type": "dark",
+    "colors": {
+      "editor.background": "#0F111A",
+      "editor.foreground": "#E6E6E6",
+      "sideBar.background": "#0B0D14",
+      "sideBar.foreground": "#D7D7D7",
+      "activityBar.background": "#0B0D14",
+      "statusBar.background": "#0B0D14",
+      "list.activeSelectionBackground": "#1A1F2B",
+      "list.hoverBackground": "#141826"
+    },
+    "tokenColors": [
+      { "scope": ["comment"], "settings": { "foreground": "#5C6370", "fontStyle": "italic" } },
+      { "scope": ["string"], "settings": { "foreground": "#98C379" } },
+      { "scope": ["keyword", "storage.type"], "settings": { "foreground": "#C678DD" } },
+      { "scope": ["entity.name.function"], "settings": { "foreground": "#61AFEF" } }
+    ]
+  }
+  
