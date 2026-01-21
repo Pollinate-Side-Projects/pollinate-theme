@@ -2,7 +2,7 @@
   "name": "pollinate-theme",
   "displayName": "Pollinate Theme",
   "description": "Pollinate Theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -48,7 +48,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.108.1",
+    "@types/vscode": "^1.64.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "22.x",
     "typescript-eslint": "^8.52.0",
